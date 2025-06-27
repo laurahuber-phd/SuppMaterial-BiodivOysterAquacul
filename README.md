@@ -46,8 +46,8 @@ webshot2_0.1.1
 
 Use after processing the raw sequence data with the ONTbroadsp_eDNA pipeline:
 
-Generate the phyloseq objects for each run with the MakePhyloseq.R file 
-Analyses can be found in the CombineAndAnalysis.R file  
-Code to make figures is in the FiguresAndTables.R file   
-
+Generate the phyloseq objects for each run with the MakePhyloseq.R file   
+Analyses can be found in the CombineAndAnalysis.R file    
+Code to make figures is in the FiguresAndTables.R file    
+ 
 
