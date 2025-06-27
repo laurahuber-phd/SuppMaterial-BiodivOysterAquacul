@@ -44,5 +44,8 @@ phyloseq_1.42.0
 flextable_0.9.5     
 webshot2_0.1.1      
 
-# Step 1:  Build phyloseq object  
-Take sequence table, 
+Generate the phyloseq objects for each run with the MakePhyloseq.R file 
+Analyses can be found in the CombineAndAnalysis.R file  
+Code to make figures is in the FiguresAndTables.R file   
+
+
