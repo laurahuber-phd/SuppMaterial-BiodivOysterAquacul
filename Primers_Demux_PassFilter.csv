@@ -1,0 +1,7 @@
+﻿,,AWR,AWF,AP,AF,AG,AH
+Assigned to barcodes,COI,2493882,2380169,1624005,1550177,1292056,3788548
+Assigned to barcodes,18S,2068634,1540065,6191003,5259187,1283821,2428425
+Assigned to barcodes,12S,2500940,2489419,1242958,451674,712622,6165063
+passed length and quality filter  (for i in barcode??.fastq; do echo $(cat $i|wc -l)/4|bc; done),COI,1245330,1535643,1248789,1329427,1011597,1123067
+passed length and quality filter  (for i in barcode??.fastq; do echo $(cat $i|wc -l)/4|bc; done),18S,1472591,827991,5438219,4922569,1186490,2594565
+passed length and quality filter  (for i in barcode??.fastq; do echo $(cat $i|wc -l)/4|bc; done),12S,509476,334681,971390,355516,559125,1200261
